@@ -125,3 +125,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+.gitattributes
+
+node_modules
+package-lock.json
+.vscode
+.DS_Store
+
